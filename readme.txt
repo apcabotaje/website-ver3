@@ -1,5 +1,14 @@
 ==================================================================================================
 
+AYMAN NOTES:
+
+Hi there! I used this template to build my personal website and this theme is very promising, I love 
+the color pallete and the portfolio presentation. I added a section here where I put some of the 
+tech and tools that I used for Software Development. You can also reuse it to your portfolio or personal
+projects. Best of luck and don't forget to message me when you have questions, stay safe as always.
+
+==================================================================================================
+
 DESCRIPTION:
 
 LUTHER is a modern, stylish, free personal website template designed for creative individuals 
