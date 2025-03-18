@@ -4303,3 +4303,7 @@ img.u-pull-left {
   .tooltip:hover .tooltiptext {
     visibility: visible;
   }
+
+  .timeline__title em {
+    font-size: 20px;
+  }
